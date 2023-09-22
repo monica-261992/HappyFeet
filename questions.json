@@ -1,0 +1,158 @@
+[
+{
+    "questions": [{
+            "questionText": "Which of the following is the capital of Australia?",
+            "options": [{
+                    "text": "canberra",
+                    "correct": true
+                },
+                {
+                    "text": "sydney"
+                },
+                {
+                    "text": "melbourne"
+                },
+                {
+                    "text": "victoria"
+                }
+            ]
+        },
+        {
+            "questionText": "Which of the following is the capital of America?",
+            "options": [{
+                    "text": "Texas"
+                },
+                {
+                    "text": "chicago"
+                },
+                {
+                    "text": "new york"
+                },
+                {
+                    "text": "washington dc",
+                    "correct": true
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital of United Kingdom?",
+            "options": [{
+                    "text": "scotland"
+                },
+                {
+                    "text": "london",
+                    "correct": true
+                },
+                {
+                    "text": "manchester"
+                },
+                {
+                    "text": "yorkshire"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital of South Africa?",
+            "options": [{
+                    "text": "nigeria"
+                },
+                {
+                    "text": "cape town",
+                    "correct": true
+                },
+                {
+                    "text": "mali"
+                },
+                {
+                    "text": "chao"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital of India?",
+            "options": [{
+                    "text": "delhi",
+                    "correct": true
+                },
+                {
+                    "text": "hyderabad"
+                },
+                {
+                    "text": "mumbai"
+                },
+                {
+                    "text": "chennai"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital of south korea?",
+            "options": [{
+                    "text": "jeju island"
+                },
+                {
+                    "text": "busan"
+                },
+                {
+                    "text": "daejeon"
+                },
+                {
+                    "text": "seoul",
+                    "correct": true
+                }
+            ]    
+        },
+        {
+            "questionText": "What is the capital of turkey?",
+            "options": [{
+                    "text": "syria"
+                },
+                {
+                    "text": "istanbul",
+                    "correct": true
+                },
+                {
+                    "text": "jordan"
+                },
+                {
+                    "text": "lebanon"
+                }
+            ]   
+        },
+        {
+            "questionText": "What is the capital of UAE?",
+            "options": [{
+                    "text": "dubai",
+                    "correct": true
+                },
+                {
+                    "text": "abu dabhi"
+                },
+                {
+                    "text": "sharja"
+                },
+                {
+                    "text": "faisalkahaima"
+                }
+            ]
+        },
+        {
+            "questionText": "What is the capital of china?",
+            "options": [{
+                    "text": "beijing",
+                    "correct": true
+                },
+                {
+                    "text": "tianjin"
+                },
+                {
+                    "text": "jinan"
+                },
+                {
+                    "text": "foshan"
+                }
+            ]
+        }
+    ]
+}
+]
